@@ -37,6 +37,8 @@
 		"docpad-plugin-marked": "2.x",
 		"docpad-plugin-partials": "2.x",
 		"docpad-plugin-stylus": "2.x",
+		"docpad-plugin-jade": "x",
+		"docpad-plugin-sass": "x",
 		"docpad-plugin-text": "2.x"
 	},
 	"devDependencies": {
